@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'daisy'
+puts Daisy.sing
